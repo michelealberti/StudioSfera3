@@ -68,7 +68,7 @@
                                 <a class="text-white text-primary show dropdown-item display-4" href="Gallery.html#slider2-l">Nuova costruzione Riva del Garda</a>
                                 <a class="text-white text-primary show dropdown-item display-4" href="Gallery.html#slider2-m">Rilievi e topografia<br></a>
                                 <a class="text-white text-primary show dropdown-item display-4" href="Gallery.html#slider2-n">Ristrutturazione Arco<br></a>
-
+                                
                                 <a class="text-white text-primary show dropdown-item display-4" href="Gallery.html#slider2-o">Rotatoria Bonapace</a>
                             </div>
                         </li>
@@ -93,6 +93,9 @@
     </section>
 
     <section data-bs-version="5.1" class="header19 cid-sFGzrhlvIh mbr-parallax-background" id="header19-3">
+
+
+
         <div class="mbr-overlay" style="opacity: 0.9; background-color: rgb(35, 35, 35);">
         </div>
 
@@ -106,17 +109,7 @@
                         Studio Associato Studio Sfera
                         <br>Via Marone 22 - 38066 Riva del Garda (TN)
                     </p>
-                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2" style="color: #d3d3d3;">
-                        <strong>Il tuo partner per soluzioni tecniche innovative</strong>
-                    </h3>
-                    <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7" style="color: #d3d3d3;">
-                        Studio Sfera è uno studio tecnico associato che da anni opera nel settore dell'ingegneria e dell'architettura,
-                        offrendo competenze multidisciplinari per progetti di ogni dimensione e complessità.
-                    </h4>
-                    <div class="mbr-section-btn mt-4">
-                        <a class="btn btn-lg btn-primary display-4" href="StudioSfera.html">Scopri di più</a>
-                        <a class="btn btn-lg btn-outline-warning display-4" href="contatti.html">Contattaci</a>
-                    </div>
+
                     <div class="row pt-5 justify-content-center">
                         <div class="col-12 col-md-6 col-lg-3">
                             <div class="card-wrapper">
@@ -156,6 +149,44 @@
                             </div>
                         </div>
 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="footer3 cid-uRFrnF0SWj" once="footers" id="footer3-7">
+
+
+
+
+
+        <div class="container">
+            <div class="media-container-row align-center mbr-white">
+
+                <div class="row social-row">
+                    <div class="social-list align-right pb-2">
+
+
+
+
+
+
+                        <div class="soc-item">
+                            <a href="https://www.instagram.com/studiosferastudiotecnico/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.linkedin.com/in/studiosfera-studio-associato-494a27240/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/profile.php?id=100063988211646&sk=about" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
